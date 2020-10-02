@@ -31,12 +31,12 @@
   <code><img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
   <code><img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
-  <code><img title="Scikit" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/sass.svg"></code>
-  <code><img title="Tensorflow" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/angularjs.svg"></code>
+  <code><img title="Scikit" height="25" src="https://github.com/NitinV2000/NitinV2000/blob/master/images/1200px-Scikit_learn_logo_small.svg.png"></code>
+  <code><img title="Tensorflow" height="25" src="https://github.com/NitinV2000/NitinV2000/blob/master/images/download.png"></code>
   <code><img title="JQuery" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/jquery.svg"></code>
   <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java.svg"></code>
-  <code><img title="Pandas" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/unity.svg"></code>
-  <code><img title="Opencv" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/unity.svg"></code>
+  <code><img title="Pandas" height="25" src="https://github.com/NitinV2000/NitinV2000/blob/master/images/download%20(1).png"></code>
+  <code><img title="Opencv" height="25" src="https://github.com/NitinV2000/NitinV2000/blob/master/images/1200px-OpenCV_Logo_with_text_svg_version.svg.png"></code>
 </p>
 
 <hr>
