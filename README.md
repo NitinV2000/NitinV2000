@@ -10,7 +10,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Nitin Vankadari, Third year IT StudentVellore Institute of Technolgy, Vellore
+  Hi, I'm Nitin Vankadari, Third year IT Student
   <br>
   <br>
   🎓 Studying at Vellore Institute of Technolgy, Vellore
