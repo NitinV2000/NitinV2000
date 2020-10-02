@@ -1,5 +1,5 @@
 ### Hello World, I'm Nitin a.k.a Tintin
-<img alt="GIF" src="https://media.giphy.com/media/Pn1gZzAY38kbm/giphy.gif" width = 200/>
+<img alt="GIF" src="https://media.giphy.com/media/lTRuG1F4VZ3LHMpXY2/giphy.gif" width = 200/>
 
 <!--
 **NitinV2000/NitinV2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
