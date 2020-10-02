@@ -1,3 +1,6 @@
+<p align="center">
+  <img alt="GIF" src="https://media.giphy.com/media/lTRuG1F4VZ3LHMpXY2/giphy.gif" width = 200/>
+</p>
 <h3 align="center">Hello there, I'm Nitin Vankadari⚡</h3>
 <h5 align="center">
   <code>
