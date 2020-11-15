@@ -45,7 +45,10 @@
 <hr>
 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=NitinV2000&show_icons=true&theme=gotham"></a>
-
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitinV2000&layout=compact&theme=radical" alt="My Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=NitinV2000&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
+</p>
 <hr>
 
 <!--
