@@ -5,7 +5,9 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/nitin-vankadari-930747173/" title="LinkedIn Profile"><img width="22" src="https://github.com/NitinV2000/NitinV2000/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/NitinVankadari" title="HackerRank Profile"><img width="22" src="https://github.com/NitinV2000/NitinV2000/blob/master/images/hackerrank.png"> HackerRank</a></code>
+  
+  <code><a href="https://leetcode.com/NitinVankadari/" title="LeetCode Profile"><img width="22" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"> LeetCode</a></code>
+  
   <code><a href="https://www.instagram.com/nitin1620/" title="Instagram Profile"><img width="22" src="https://github.com/NitinV2000/NitinV2000/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
@@ -27,9 +29,11 @@
 <h2 align="center">Languages & Tools & Abilities</h2>
 
 <p align="center">
+  
   <code><img title="Java" height="25" src="https://github.com/NitinV2000/NitinV2000/blob/master/images/java.svg"></code>
+  <code><img title="Spring Boot" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
+  <code><img title="MySQL" height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img title="Javascript" height="25" src="https://github.com/NitinV2000/NitinV2000/blob/master/images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://github.com/NitinV2000/NitinV2000/blob/master/images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="https://github.com/NitinV2000/NitinV2000/blob/master/images/html5.svg"></code>
   <code><img title="CSS" height="25" src="https://github.com/NitinV2000/NitinV2000/blob/master/images/css.svg"></code>
   <code><img title="Scikit" height="25" src="https://github.com/NitinV2000/NitinV2000/blob/master/images/1200px-Scikit_learn_logo_small.svg.png"></code>
