@@ -45,8 +45,11 @@
 <hr>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitinV2000&layout=compact&theme=radical" alt="My Github Stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=NitinV2000&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=NitinV2000&count_private=true&show_icons=true&theme=radical" alt="My Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=NitinV2000&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
+<!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NitinV2000&count_private=true&show_icons=true&theme=radical)
+)
+  https://github-readme-stats.vercel.app/api/top-langs/?username=NitinV2000&layout=compact&theme=radical -->
 </p>
 <hr>
 
